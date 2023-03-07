@@ -7,8 +7,33 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "costs": 0,
-      "services": [],
+      "costs": 2004,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "costs": "1200",
+          "description": "Faz isso aqui teste",
+          "id": "c633c1bb-5ddb-45ed-9d73-cc1d8eb57a79"
+        },
+        {
+          "name": "Mais um serviço",
+          "costs": "2",
+          "description": "teste",
+          "id": "de6f0fa7-4c55-4cb4-9b35-791c90c0c7bc"
+        },
+        {
+          "name": "Mais um serviço",
+          "costs": "2",
+          "description": "teste",
+          "id": "de6f0fa7-4c55-4cb4-9b35-791c90c0c7bc"
+        },
+        {
+          "name": "Mais um serviço",
+          "costs": "800",
+          "description": "teste 3",
+          "id": "170089fc-6da3-4633-bdaf-52ee405c57b8"
+        }
+      ],
       "id": 1
     },
     {
