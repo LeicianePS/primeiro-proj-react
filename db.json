@@ -7,31 +7,13 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "costs": 2004,
+      "costs": 1196,
       "services": [
         {
           "name": "Meu novo serviço",
           "costs": "1200",
           "description": "Faz isso aqui teste",
           "id": "c633c1bb-5ddb-45ed-9d73-cc1d8eb57a79"
-        },
-        {
-          "name": "Mais um serviço",
-          "costs": "2",
-          "description": "teste",
-          "id": "de6f0fa7-4c55-4cb4-9b35-791c90c0c7bc"
-        },
-        {
-          "name": "Mais um serviço",
-          "costs": "2",
-          "description": "teste",
-          "id": "de6f0fa7-4c55-4cb4-9b35-791c90c0c7bc"
-        },
-        {
-          "name": "Mais um serviço",
-          "costs": "800",
-          "description": "teste 3",
-          "id": "170089fc-6da3-4633-bdaf-52ee405c57b8"
         }
       ],
       "id": 1
@@ -43,8 +25,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "costs": 0,
-      "services": [],
+      "costs": 680,
+      "services": [
+        {
+          "name": "Contratar Dev REACT",
+          "costs": "500",
+          "description": "Ajuda freela",
+          "id": "3990764f-6297-409f-bf59-a2a741e718f6"
+        },
+        {
+          "name": "serviço extra",
+          "costs": "180",
+          "description": "diaria ",
+          "id": "ac74959d-3603-4f19-9ad5-445063cfe72e"
+        }
+      ],
       "id": 2
     }
   ],
